@@ -7,7 +7,7 @@ set -e
 COREMLTOOLS_HOME=$( cd "$( dirname "$0" )/.." && pwd )
 
 # command flag options
-PYTHON="3.7"
+PYTHON="3.8"
 CHECK_ENV=1
 WHEEL_PATH=""
 

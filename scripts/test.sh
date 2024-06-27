@@ -17,7 +17,7 @@ CHECK_ENV=1
 TIME_OUT=600
 
 # command flag options
-PYTHON="3.7"
+PYTHON="3.8"
 
 unknown_option() {
   echo "Unknown option $1. Exiting."
